@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT imranoraclegmailcom_imrano_569.wsgi:application
